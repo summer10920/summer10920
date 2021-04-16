@@ -1,15 +1,13 @@
 <pre><code>
 
-8 8888             ,o888888o.     8 8888     ,88'  8 8888                  8 8888  8 8888          .8.          b.             8      ,o888888o.    
-8 8888          . 8888     `88.   8 8888    ,88'   8 8888                  8 8888  8 8888         .888.         888o.          8     8888     `88.  
-8 8888         ,8 8888       `8b  8 8888   ,88'    8 8888                  8 8888  8 8888        :88888.        Y88888o.       8  ,8 8888       `8. 
-8 8888         88 8888        `8b 8 8888  ,88'     8 8888                  8 8888  8 8888       . `88888.       .`Y888888o.    8  88 8888           
-8 8888         88 8888         88 8 8888 ,88'      8 8888                  8 8888  8 8888      .8. `88888.      8o. `Y888888o. 8  88 8888           
-8 8888         88 8888         88 8 8888 88'       8 8888                  8 8888  8 8888     .8`8. `88888.     8`Y8o. `Y88888o8  88 8888           
-8 8888         88 8888        ,8P 8 888888<        8 8888       88.        8 8888  8 8888    .8' `8. `88888.    8   `Y8o. `Y8888  88 8888   8888888 
-8 8888         `8 8888       ,8P  8 8888 `Y8.      8 8888       `88.       8 888'  8 8888   .8'   `8. `88888.   8      `Y8o. `Y8  `8 8888       .8' 
-8 8888          ` 8888     ,88'   8 8888   `Y8.    8 8888         `88o.    8 88'   8 8888  .888888888. `88888.  8         `Y8o.`     8888     ,88'  
-8 888888888888     `8888888P'     8 8888     `Y8.  8 8888           `Y888888 '     8 8888 .8'       `8. `88888. 8            `Yo      `8888888P'    
+  88             ,ad8888ba,    88      a8P   88              88  88         db         888b      88    ,ad8888ba,   
+  88            d8"'    `"8b   88    ,88'    88              88  88        d88b        8888b     88   d8"'    `"8b  
+  88           d8'        `8b  88  ,88"      88              88  88       d8'`8b       88 `8b    88  d8'            
+  88           88          88  88,d88'       88              88  88      d8'  `8b      88  `8b   88  88             
+  88           88          88  8888"88,      88              88  88     d8YaaaaY8b     88   `8b  88  88      88888  
+  88           Y8,        ,8P  88P   Y8b     88              88  88    d8""""""""8b    88    `8b 88  Y8,        88  
+  88            Y8a.    .a8P   88     "88,   88      88,   ,d88  88   d8'        `8b   88     `8888   Y8a.    .a88  
+  88888888888    `"Y8888Y"'    88       Y8b  88       "Y8888P"   88  d8'          `8b  88      `888    `"Y88888P"   
 
 </code></pre>
 ---
@@ -17,10 +15,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave" height="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula" height="200">
 </p>
 ---
