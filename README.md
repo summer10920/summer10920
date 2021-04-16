@@ -16,8 +16,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave" height="167">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave" height="167">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula" height="200">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula" height="230">
 </p>
 <p align="center">
