@@ -10,18 +10,16 @@
   88888888888    `"Y8888Y"'    88       Y8b  88       "Y8888P"   88  d8'          `8b  88      `888    `"Y88888P"   
 
 </code></pre>
----
-<small align="center">Time waits for no oneヽ(｀Д´)ﾉ</small>
----
+
+<h3 align="center">Time waits for no oneヽ(｀Д´)ﾉ</ㄘ>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave" height="167">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave" height="167">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula" height="160">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula" height="200">
 </p>
----
 <p align="center">
   <a href="https://summer10920.github.io"><img src="https://img.icons8.com/ios-filled/28/000000/book.png" /></a>
   <a href="https://www.linkedin.com/in/loki-jiang/"><img
