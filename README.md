@@ -22,9 +22,16 @@
 <h3 align="center">Time waits for no oneヽ(｀Д´)ﾉ</h3>
 <hr>
 <p align="center">
-  <a href="https://summer10920.github.io"><img src="https://img.icons8.com/ios-filled/28/000000/book.png" /></a>
-  <a href="https://www.linkedin.com/in/loki-jiang/"><img
-      src="https://img.icons8.com/material-outlined/30/000000/linkedin.png" /></a>
-  <a href="https://www.youtube.com/channel/UC2-nJumftery9w8NdQenKlQ"><img
-      src="https://img.icons8.com/material-outlined/30/000000/youtube.png" /></a>
+  <a href="https://summer10920.github.io">
+    <img src="https://img.icons8.com/ios-filled/28/e5289e/blogger.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/loki-jiang/">
+    <img src="https://img.icons8.com/material-outlined/30/e5289e/linkedin.png" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC2-nJumftery9w8NdQenKlQ">
+    <img src="https://img.icons8.com/material-outlined/30/e5289e/youtube.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC2-nJumftery9w8NdQenKlQ">
+    <img src="https://img.icons8.com/material-outlined/28/e5289e/gmail.png"/>
+  </a>
 </p>
