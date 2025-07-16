@@ -28,10 +28,10 @@
   <a href="https://www.linkedin.com/in/loki-jiang/">
     <img src="https://img.icons8.com/material-outlined/30/e5289e/linkedin.png" />
   </a>
-  <a href="https://www.youtube.com/channel/UC2-nJumftery9w8NdQenKlQ">
+  <a href="[https://www.youtube.com/channel/UC2-nJumftery9w8NdQenKlQ](https://www.youtube.com/@LokiJiang)">
     <img src="https://img.icons8.com/material-outlined/30/e5289e/youtube.png"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC2-nJumftery9w8NdQenKlQ">
+  <a href="mailto:summer10920@gmail.com">
     <img src="https://img.icons8.com/material-outlined/28/e5289e/gmail.png"/>
   </a>
 </p>
