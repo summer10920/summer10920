@@ -58,7 +58,7 @@
 <a href="https://www.joomla.org/" target="_blank"><img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla"></a>
 
 
-## Github Status
+## Status
 <!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=summer10920) -->
 
 <div align="center">
