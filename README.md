@@ -71,12 +71,6 @@
 
 
 ## Author Info. `Time waits for no oneヽ(｀Д´)ﾉ`
-<a href="https://summer10920.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-e91061?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-</a>
-<a href="https://www.youtube.com/@LokiJiang" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="mailto:summer10920@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<a href="https://summer10920.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-e91061?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+<a href="https://www.youtube.com/@LokiJiang" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:summer10920@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
