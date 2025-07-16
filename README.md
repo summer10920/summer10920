@@ -32,6 +32,6 @@
     <img src="https://img.icons8.com/material-outlined/30/e5289e/youtube.png"/>
   </a>
   <a href="mailto:summer10920@gmail.com">
-    <img src="https://img.icons8.com/material-outlined/28/e5289e/gmail.png"/>
+    <img src="https://img.icons8.com/?size=30&id=ZE7CF2CQ0DcJ&format=png&color=e5289e"/>
   </a>
 </p>
