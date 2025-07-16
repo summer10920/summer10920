@@ -49,7 +49,6 @@
 <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
 <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00221F?style=for-the-badge&logo=netlify&logoColor=gray" alt="Netlify"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-221A00?style=for-the-badge&logo=amazon-aws&logoColor=gray" alt="AWS"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
@@ -70,7 +69,9 @@
 
 
 
-## Author Info. `Time waits for no oneヽ(｀Д´)ﾉ`
+## Author Info.
 <a href="https://summer10920.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-e91061?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
 <a href="https://www.youtube.com/@LokiJiang" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="mailto:summer10920@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+> Time waits for no oneヽ(｀Д´)ﾉ
