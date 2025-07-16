@@ -59,8 +59,10 @@
 
 
 ## Github Status
+<!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=summer10920) -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave"
+  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061"
     height="165">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave"
