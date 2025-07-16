@@ -56,16 +56,16 @@
 ## Github Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave"
-    height="180">
+    height="165">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave"
-    height="180">
+    height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="185">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula"
     height="185">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula"
-    height="230">
+    height="200">
 </div>
 <h3 align="center">Time waits for no oneヽ(｀Д´)ﾉ</h3>
 <hr>
