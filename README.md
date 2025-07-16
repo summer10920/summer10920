@@ -1,10 +1,4 @@
-<style>
-  pre {
-    font-size: 1.5rem;
-    color: #e5289e;
-  }
-</style>
-<pre><code>
+<pre style="font-size: 1.5rem; color: #e5289e"><code>
 
   88             ,ad8888ba,    88      a8P   88                  88  88         db         888b      88    ,ad8888ba,   
   88            d8"'    `"8b   88    ,88'    88                  88  88        d88b        8888b     88   d8"'    `"8b  
