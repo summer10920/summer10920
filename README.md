@@ -67,24 +67,10 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula"
     height="200">
 </div>
-<h3 align="center">Time waits for no oneヽ(｀Д´)ﾉ</h3>
-<hr>
-<p align="center">
-  <a href="https://summer10920.github.io">
-    <img src="https://img.icons8.com/ios-filled/28/e5289e/blogger.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/loki-jiang/">
-    <img src="https://img.icons8.com/material-outlined/30/e5289e/linkedin.png" />
-  </a>
-  <a href="https://www.youtube.com/@LokiJiang">
-    <img src="https://img.icons8.com/material-outlined/30/e5289e/youtube.png" />
-  </a>
-  <a href="mailto:summer10920@gmail.com">
-    <img src="https://img.icons8.com/?size=30&id=ZE7CF2CQ0DcJ&format=png&color=e5289e" />
-  </a>
-</p>
 
-## Author Info.
+
+
+## Author Info. `Time waits for no oneヽ(｀Д´)ﾉ`
 <a href="https://summer10920.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Blog-e91061?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
 </a>
