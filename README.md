@@ -1,7 +1,3 @@
-<script src="https://gist.github.com/summer10920/eb0091799588a94ba5f5446bf48c5333.js"></script>
-
-<script src="https://gist.github.com/summer10920/94a9b3385ed7940b88ccc44e3b36a11e.js"></script>
-
 <pre><code>
 
   88             ,ad8888ba,    88      a8P   88                  88  88         db         888b      88    ,ad8888ba,   
