@@ -59,11 +59,11 @@
 
 ## Status
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=summer10920\&layout=compact" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061"
-    height="165">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=summer10920\&layout=compact" height="185">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave"
+    height="185">
+  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061"
     height="185">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="185">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula"
