@@ -78,15 +78,15 @@
 
 
 ## Author Info.
+
 <a href="https://summer10920.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-e91061?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
 <a href="https://www.youtube.com/@LokiJiang" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="mailto:summer10920@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-> Time waits for no oneヽ(｀Д´)ﾉ
-
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
-
-*   Compact layout
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+<marquee bgcolor="e91061" direction="right" behavior="alternate">
+  <span>Time waits for no oneヽ(｀Д´)ﾉ</span>
+  <span>　　　　　　　　</span>
+  <span>Time waits for no oneヽ(｀Д´)ﾉ</span>
+  <span>　　　　　　　　</span>
+  <span>Time waits for no oneヽ(｀Д´)ﾉ</span>
+</marquee>
