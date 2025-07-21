@@ -33,7 +33,6 @@
 <a href="https://parceljs.org/" target="_blank"><img src="https://img.shields.io/badge/Parcel-220E0E?style=for-the-badge&logo=parcel&logoColor=gray" alt="Parcel"></a>
 <a href="https://rollupjs.org/" target="_blank"><img src="https://img.shields.io/badge/Rollup-220707?style=for-the-badge&logo=rollup.js&logoColor=gray" alt="Rollup"></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-<a href="https://pnpm.io/" target="_blank"><img src="https://img.shields.io/badge/pnpm-4A4A4A?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"></a>
 <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/Yarn-07171F?style=for-the-badge&logo=yarn&logoColor=gray" alt="Yarn"></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></a>
 <a href="https://vitest.dev/" target="_blank"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"></a>
@@ -59,17 +58,18 @@
 
 
 ## Status
-<!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=summer10920) -->
-
 <div align="center">
+  <a href="https://wakatime.com/@summer10920">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=summer10920\&layout=compact" height="165">
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061"
     height="165">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave"
-    height="165">
+    height="185">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="185">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula"
-    height="185">
+    height="200">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula"
     height="200">
@@ -83,3 +83,10 @@
 <a href="mailto:summer10920@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 > Time waits for no oneヽ(｀Д´)ﾉ
+
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+
+*   Compact layout
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
