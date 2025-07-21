@@ -60,17 +60,13 @@
 ## Status
 <div align="center">
   <a href="https://wakatime.com/@summer10920" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=summer10920\&layout=compact" height="165"></a>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave"
-    height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061"
-    height="185">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="185">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula"
-    height="185">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula"
-    height="185">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=summer10920&show_icons=true&layout=compact&theme=synthwave" height="165"></a>
+
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=summer10920&theme=dracula" height="185"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061" height="185"></a>
+  
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=summer10920&theme=synthwave" height="185"></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=summer10920&theme=dracula" height="185"></a>
 </div>
 
 
@@ -83,8 +79,8 @@
 
 <marquee bgcolor="e91061" direction="right" behavior="alternate">
   <span>Time waits for no oneヽ(｀Д´)ﾉ</span>
-  <span>　　　　　　　　</span>
+  <span>　　　　　</span>
   <span>Time waits for no oneヽ(｀Д´)ﾉ</span>
-  <span>　　　　　　　　</span>
+  <span>　　　　　</span>
   <span>Time waits for no oneヽ(｀Д´)ﾉ</span>
 </marquee>
