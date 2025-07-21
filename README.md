@@ -59,9 +59,7 @@
 
 ## Status
 <div align="center">
-  <a href="https://wakatime.com/@summer10920">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=summer10920\&layout=compact" height="165">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=summer10920\&layout=compact" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=summer10920&show_icons=true&theme=synthwave&include_all_commits=true&ring_color=e91061"
     height="165">
   <img
